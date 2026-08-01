@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nourhan Fekry</h1>
+<h3 align="center">Senior Automation Test Engineer | AI Testing Enthusiast | Java | Selenium | Appium</h3>
 
-<!--
-**NourhanFekry/NourhanFekry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about building reliable test automation frameworks, API testing, Mobile Testing, and exploring AI-powered software testing.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 💼 Software Automation Test Engineer with 4+ years of experience
+- 🤖 Currently learning AI Testing & Generative AI
+- 📱 Mobile Automation using Appium
+- 🌐 Web Automation using Selenium & SHAFT
+- 🔥 API Testing using Postman & Rest Assured
+- ☁️ CI/CD using GitHub Actions
+- 🌱 Currently learning Playwright & LLM Testing
+- 📫 Reach me: nourhanfekry1@gmail.com
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+Java 
+
+### Automation
+
+Selenium • Appium • TestNG • Cucumber • SHAFT
+
+### API
+
+Postman • Rest Assured
+
+### DevOps
+
+Git • GitHub • GitHub Actions • Maven
+
+### Management
+
+Jira • Agile • Scrum
+
+---
+
+## 🌍 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/nourhan-fekry/
